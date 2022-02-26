@@ -9,3 +9,11 @@ Libraries that I cover:
 This repo just contains four jupyter notenooks corresponding to each of the above mentioned libraries.
 
 These 4 notebooks are just me following along the docs and executing the code. Nothing more than that.
+
+Installation:
+I've exported my environment to a file called environment.yml file
+
+You can create an environment from it using this:
+	conda env create -f environment. yml
+
+FYI, the environment contains other libs as well that aren't required.
